@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "deploy": "gh-pages -d target"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
