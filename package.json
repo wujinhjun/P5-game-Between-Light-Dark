@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "react-scaffold-p5",
   "version": "0.1.0",
@@ -49,3 +50,14 @@
     "sass": "^1.56.1"
   }
 }
+=======
+{
+  "homepage": "/",
+  "scripts": {
+    "deploy": "gh-pages -d ./"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
+>>>>>>> firstVersion
