@@ -54,15 +54,21 @@ function mapDisplay() {
   returnHome.update("返回", 48);
 
   if (map1.buttonClick()) {
-    back = loadImage("./pic/backgroundr.png");
+    back = loadImage(
+      "https://raw.githubusercontent.com/wujinhjun/wujinhjun-pic/main/202304032006524.png"
+    );
   }
 
   if (map2.buttonClick()) {
-    back = loadImage("./pic/background.png");
+    back = loadImage(
+      "https://raw.githubusercontent.com/wujinhjun/wujinhjun-pic/main/202304032006760.png"
+    );
   }
 
   if (map3.buttonClick()) {
-    back = loadImage("./pic/backgroundb.png");
+    back = loadImage(
+      "https://raw.githubusercontent.com/wujinhjun/wujinhjun-pic/main/202304032006457.png"
+    );
   }
   if (returnHome.buttonClick()) {
     stage = 1;
