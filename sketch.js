@@ -24,7 +24,7 @@ let timesNum = 1;
 function setup() {
     // 画布中心： 
     createCanvas(canvasSize, canvasSize);
-    back = loadImage('./pic/background.png');
+    back = loadImage('/pic/background.png');
     smooth();
     stage = 1;
 
