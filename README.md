@@ -1,5 +1,6 @@
 # Between Light and Dark
-
+This is a game based on p5js.  
+***
 我还是用中文来写吧，一方面是我英语比较菜，另一方面是可能用中文能更好的表达我的心情吧（有点鲁迅先生内味了emmm）。  
 [这是原来的readme的地址](https://github.com/wujinhjun/FrontEndHomework/tree/main/Homework7)
 
