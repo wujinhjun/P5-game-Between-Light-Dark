@@ -1,13 +1,9 @@
-import React, { useEffect, useRef } from "react";
+import React from "react";
 import "./App.scss";
-import p5 from "p5";
 
+import MySketch from "./sketch/sketch";
 const App = () => {
-  const canvasRef = useRef<HTMLDivElement | null>(null);
-
-  useEffect(() => {}, []);
-
-  return <div ref={canvasRef} className="p5" />;
+  return <MySketch />;
 };
 
 export default App;
